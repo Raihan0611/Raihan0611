@@ -9,7 +9,7 @@
 
 ## Education:
 
-#### [SMA N 2 Cibinong](https://sman2cibinong.sch.id/Beranda) | XI-C1 | Bogor `2023-2026`
+#### [SMA N 2 Cibinong](https://sman2cibinong.sch.id/) | XI-C1 | Bogor `2023-2026`
    - Matematika
    - Kimia
    - Fisika
